@@ -12,16 +12,25 @@ In order to recognize the benefits and drawbacks of the various approaches, my p
 ## Data Source-
 
 Below data sources will be used to build this recommendation system –
+
 •	https://www.drugs.com/ -
-a.	The most reliable, up-to-date drug knowledge is offered by this source. This would be used to obtain the patients' updated reviews and additional details such as conditions relevant to the medication.
-b.	Additional or optional care recommendations from this source will be scrapped based on the conditions.
+
+    a.	The most reliable, up-to-date drug knowledge is offered by this source. This would be used to obtain the patients' updated reviews and additional details such as     conditions relevant to the medication.
+
+    b.	Additional or optional care recommendations from this source will be scrapped based on the conditions.
+    
 •	http://www.druglib.com/ -
-a.	 It is another source that will be used to provide the drug feedback and extra reviews such as effectiveness, side effects, scores.
+
+    a.	 It is another source that will be used to provide the drug feedback and extra reviews such as effectiveness, side effects, scores.
+
 •	https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29 –
-a.	This source provides the data in the csv formats referred to in the points above.
+
+    a.	This source provides the data in the csv formats referred to in the points above.
+    
 •	https://www.webmd.com/ -
-a.	This source offers the patients' review along with the age, useful information of the count.
-b.	This will mainly be used for analysis of exploratory data.
+
+    a.	This source offers the patients' review along with the age, useful information of the count.
+    b.	This will mainly be used for analysis of exploratory data.
 
 
 ## Goal-
